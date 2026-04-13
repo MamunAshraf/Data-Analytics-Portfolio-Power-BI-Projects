@@ -20,9 +20,9 @@ Analyzed 150K+ EV dataset to identify adoption trends and market insights.
 
 ---
 
-### 🛒 Sales Analysis Dashboard (Power BI)
+### 🛒 Blinkit Sales Analysis Dashboard (Power BI)
 Built a retail dashboard analyzing sales, customer behavior, and performance.  
-🔗 [View Project](link_here)
+🔗 [View Project]([link_here](https://github.com/MamunAshraf/Data-Analytics-Portfolio-Power-BI-Projects/tree/main/Blinkit_Sales_Analysis)
 
 ---
 
