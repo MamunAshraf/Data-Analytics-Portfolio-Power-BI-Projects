@@ -16,7 +16,7 @@ Analyzed patient flow and hospital performance using interactive dashboards.
 
 ### ⚡ Electric Vehicles Analysis (Power BI)
 Analyzed 150K+ EV dataset to identify adoption trends and market insights.  
-🔗 [View Project](link_here)
+🔗 [View Project](https://github.com/MamunAshraf/Data-Analytics-Portfolio-Power-BI-Projects/tree/main/Electric%20Vehicles-Analysis)
 
 ---
 
