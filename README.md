@@ -1,1 +1,42 @@
-# Data-Analytics-Portfolio-Power-BI-Projects
+
+
+# 📊 Mamun Ashraf – Data Analytics Portfolio
+
+Welcome to my Data Analytics project portfolio. Here I showcase some projects using Power BI, Excel, SQL, and Python.
+
+---
+
+## 🚀 Projects
+
+### 🚑 Hospital Emergency Room Analysis (Power BI)
+Analyzed patient flow and hospital performance using interactive dashboards.  
+🔗 [View Project](link_here)
+
+---
+
+### ⚡ Electric Vehicles Analysis (Power BI)
+Analyzed 150K+ EV dataset to identify adoption trends and market insights.  
+🔗 [View Project](link_here)
+
+---
+
+### 🛒 Sales Analysis Dashboard (Power BI)
+Built a retail dashboard analyzing sales, customer behavior, and performance.  
+🔗 [View Project](link_here)
+
+---
+
+### 👨‍💼 HR Attrition Dashboard (Power BI)
+Analyzed employee attrition and workforce trends.  
+🔗 [View Project](link_here)
+
+---
+
+## 🛠 Skills
+Power BI | Excel | SQL | Python | Data Visualization | KPI Analysis
+
+---
+
+## 📫 Contact
+- Email: mamun.ashra2015@gmail.com  
+- LinkedIn: https://linkedin.com/in/mamun-ashraf-84581a154/
