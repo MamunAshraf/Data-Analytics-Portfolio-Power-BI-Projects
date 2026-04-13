@@ -10,7 +10,7 @@ Welcome to my Data Analytics project portfolio. Here I showcase some projects us
 
 ### 🚑 Hospital Emergency Room Analysis (Power BI)
 Analyzed patient flow and hospital performance using interactive dashboards.  
-🔗 [View Project](link_here)
+🔗 [View Project](https://github.com/MamunAshraf/Data-Analytics-Portfolio-Power-BI-Projects/blob/main/Hospital-Emergency-Room-Analysis/README.md)
 
 ---
 
