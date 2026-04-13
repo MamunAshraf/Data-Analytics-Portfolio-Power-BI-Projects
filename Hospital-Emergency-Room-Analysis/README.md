@@ -1,8 +1,7 @@
 # 📊 Hospital Emergency Room Analysis
 
 ## 📌 Overview
-
-
+Developed an interactive Power BI dashboard to analyze emergency room operations, patient flow, and service efficiency.
 ## 🛠 Tools Used
 Power BI / Excel / SQL
 
