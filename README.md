@@ -28,7 +28,7 @@ Built a retail dashboard analyzing sales, customer behavior, and performance.
 
 ### 👨‍💼 HR Attrition Dashboard (Power BI)
 Analyzed employee attrition and workforce trends.  
-🔗 [View Project](link_here)
+🔗 [View Project](https://github.com/MamunAshraf/Data-Analytics-Portfolio-Power-BI-Projects/tree/main/Employee_Attrition_Analysis)
 
 ---
 
