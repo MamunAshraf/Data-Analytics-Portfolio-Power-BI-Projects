@@ -21,7 +21,7 @@ Power BI / Excel / SQL
  • Peak patient flow identified through daily and hourly trends
  • Department referrals show General Practice as the highest contributor
 ## 📷 Dashboard
-(Add image here)
+![Dashboard](hospital6.1.png)
 
 ## 🚀 Outcome
 📈 This dashboard provides a clear view of hospital performance, patient experience, and operational efficiency,
