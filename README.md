@@ -32,8 +32,15 @@ Analyzed employee attrition and workforce trends.
 
 ---
 
+### 🚗 Road Accidents Analysis Dashboard (Power BI)
+Analyzed road accident patterns, casualty trends, and key risk factors. The project focuses on analyzing accident data to support better road safety decisions and policy planning.  
+🔗 [View Project](https://github.com/MamunAshraf/Data-Analytics-Portfolio-Power-BI-Projects/tree/main/Road_Accident_Analysis)
+
+----
+
+
 ## 🛠 Skills
-Power BI | Excel | SQL | Python | Data Visualization | KPI Analysis
+Power BI | Excel | MYSQL | Python | Data Visualization | KPI Analysis
 
 ---
 
